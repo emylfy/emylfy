@@ -1,19 +1,17 @@
 ### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23282C34?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23282C34?style=for-the-badge&logo=typescript&logoColor=%233178C6)
-![React](https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23282C34?style=for-the-badge&logo=redux&logoColor=%23764ABC)
-![SASS](https://img.shields.io/badge/Sass-%23282C34?style=for-the-badge&logo=sass&logoColor=%23CC6699) 
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg) 
+![TypeScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) 
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg)
+![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg) 
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/node.js-%23282C34?style=for-the-badge&logo=node.js&logoColor=%23339933)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23282C34?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
-![SQLite](https://img.shields.io/badge/sqlite-%23282C34?style=for-the-badge&logo=sqlite&logoColor=%FFFFFF)
-![Docker](https://img.shields.io/badge/docker-%23282C34?style=for-the-badge&logo=docker&logoColor=%232496ED)
-![JWT](https://img.shields.io/badge/JWT-%23282C34?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=%23FFFFFF)
+![NodeJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg)
+![SQLite](https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg)
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg)
+![JWT](https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg)
 
 ### Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-%23282C34?style=for-the-badge&logo=hyper&logoColor=%235391FE)
-![Bash](https://img.shields.io/badge/bash-%23282C34?style=for-the-badge&logo=gnu-bash&logoColor=%234EAA25)
-![Git](https://img.shields.io/badge/git-%23282C34?style=for-the-badge&logo=git&logoColor=%23F05032)
-![Vercel](https://img.shields.io/badge/vercel-%23282C34?style=for-the-badge&logo=vercel&logoColor=%23FFFFFF)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
